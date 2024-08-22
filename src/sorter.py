@@ -1,5 +1,6 @@
 import random
 
+
 trainings = {
     'biceps': ['Rosca direta com barra', 'Rosca alternada com halteres', 'Rosca concentrada', 'Rosca martelo', 'Rosca inversa com barra'],
     'triceps': ['Tríceps pulley', 'Tríceps testa', 'Tríceps banco', 'Tríceps francês', 'Mergulho entre bancos'],
